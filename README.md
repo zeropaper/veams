@@ -445,7 +445,7 @@ Veams-Methodology is a system for your whole frontend stack. Typical questions -
 
 ### Documentation
 
-- http://www.veams.org/methodology/
+- https://veams.org/methodology/
 
 ## Veams-Components
 
